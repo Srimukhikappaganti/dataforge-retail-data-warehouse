@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+retail_warehouse.db
+data/rejected_rows.csv

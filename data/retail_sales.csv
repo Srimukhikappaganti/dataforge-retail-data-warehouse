@@ -1,0 +1,19 @@
+transaction_id,order_date,customer_id,customer_name,city,product_id,product_name,category,quantity,unit_price
+T1001,2026-01-03,C001,Aarav,Hyderabad,P101,Wireless Mouse,Accessories,2,599
+T1002,2026-01-04,C002,Diya,Warangal,P102,Keyboard,Accessories,1,899
+T1003,2026-01-05,C001,Aarav,Hyderabad,P103,Monitor,Electronics,1,8999
+T1004,2026-02-02,C003,Ishaan,Karimnagar,P104,USB Cable,Accessories,3,199
+T1005,2026-02-11,C004,Meera,Hyderabad,P105,Laptop,Electronics,1,54999
+T1006,2026-02-15,C002,Diya,Warangal,P101,Wireless Mouse,Accessories,1,599
+T1007,2026-03-01,C005,Kabir,Hanamkonda,P106,Office Chair,Furniture,2,4999
+T1008,2026-03-06,C003,Ishaan,Karimnagar,P102,Keyboard,Accessories,2,899
+T1009,2026-03-10,C001,Aarav,Hyderabad,P107,Webcam,Electronics,1,2499
+T1010,2026-03-12,C004,Meera,Hyderabad,P104,USB Cable,Accessories,2,199
+T1011,2026-03-18,C005,Kabir,Hanamkonda,P103,Monitor,Electronics,1,8999
+T1012,2026-03-21,C002,Diya,Warangal,P106,Office Chair,Furniture,1,4999
+T1013,2026-03-22,C006,Anaya,Hyderabad,P108,Headphones,Accessories,2,1499
+T1014,2026-03-23,C006,Anaya,Hyderabad,P109,Tablet,Electronics,1,18999
+T1015,2026-03-24,C003,Ishaan,Karimnagar,P105,Laptop,Electronics,1,54999
+T1016,2026-03-25,C007,Rohan,Warangal,P110,Desk Lamp,Furniture,2,1299
+T1017,2026-03-26,C007,Rohan,Warangal,P101,Wireless Mouse,Accessories,1,599
+T1018,2026-03-27,C008,Sara,Hanamkonda,P102,Keyboard,Accessories,1,899
