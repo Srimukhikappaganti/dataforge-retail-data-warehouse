@@ -1,4 +1,4 @@
-# RetailPulse: Sales Data Pipeline & Warehouse
+# DataForge – Retail ETL & Data Warehouse
 
 A practical, interview-friendly Data Engineering project built with Python, Pandas, SQL and SQLite.
 
